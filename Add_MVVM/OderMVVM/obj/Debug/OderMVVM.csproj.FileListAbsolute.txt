@@ -1,0 +1,17 @@
+E:\c#\Add_MVVM\OderMVVM\bin\Debug\OderMVVM.exe.config
+E:\c#\Add_MVVM\OderMVVM\bin\Debug\OderMVVM.exe
+E:\c#\Add_MVVM\OderMVVM\bin\Debug\OderMVVM.pdb
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.csprojAssemblyReference.cache
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\MainWindow.g.cs
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\App.g.cs
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM_MarkupCompile.cache
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM_MarkupCompile.lref
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\MainWindow.baml
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.g.resources
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.Properties.Resources.resources
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.csproj.GenerateResource.cache
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.csproj.CoreCompileInputs.cache
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.exe
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM.pdb
+E:\c#\Add_MVVM\OderMVVM\bin\Debug\Data\data.xml
+E:\c#\Add_MVVM\OderMVVM\obj\Debug\OderMVVM_Content.g.cs
